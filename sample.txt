@@ -3,4 +3,5 @@
 Welcome
 
 Name: V Yashwanth Kumar
-BOB: 21/08/1999
+DOB: 21/08/1999
+age: 20
