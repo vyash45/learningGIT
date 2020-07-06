@@ -6,8 +6,15 @@ Name: V Yashwanth Kumar
 DOB: 21/08/1999
 age: 20
 
+likes: abc
+dislikes: xyz
 
+Thank you :)
+
+done!
+=======
 Thank you
 
 
 final copy
+>>>>>>> master
